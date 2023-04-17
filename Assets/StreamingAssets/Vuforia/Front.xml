@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Front_Japan" size="2.000000 3.089231" />
+    <ImageTarget name="Front_China" size="2.000000 3.089231" />
+    <ImageTarget name="Front_SouthKorea" size="2.000000 3.089231" />
+    <ImageTarget name="Front_Cambodia" size="2.000000 3.089231" />
+    <ImageTarget name="Front_Indonesia" size="2.000000 3.089231" />
+  </Tracking>
+</QCARConfig>
